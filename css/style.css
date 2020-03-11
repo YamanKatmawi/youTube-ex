@@ -9,6 +9,7 @@
 }
 .search-logo {
   color: black;
+  background-color: gray;
 }
 .header-top {
   height: 5vh;
@@ -92,4 +93,8 @@
   display: flex;
   width: 10%;
   justify-content: space-between;
+}
+.slick-container hr {
+  color: white;
+  width: 50rem;
 }
